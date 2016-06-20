@@ -188,3 +188,39 @@ The Promise of a Pencil: How an Ordinary Person Can Create Extraordinary Change 
 
 
 How We Got to Now: Six Innovations That Made the Modern World by Steven Johnson. “How We Got to Now,” featured in a major six-part television series on PBS, traces the history of some of mankind’s most important discoveries — and shows how they led to some of the most important events in our history. Steven Johnson scrupulously recounts tales of innovation by both genius and mistake, as he details the “invention” of glass, cold, sound, clean, time and light. A can’t miss read for financial leaders, “How We Got to Now” is the historical account of how modern life came to be this way.
+
+
+
+2015 Holiday Reading List
+
+A Full Life: Reflections at Ninety
+jimmy carter
+From his childhood in rural Georgia to a lifetime spent in the international spotlight, former U.S. President Jimmy Carter has embodied the American dream. Here he tells his life story with his characteristic frankness, presenting a wonderfully illustrative tale. President Carter is thoroughly captivating in this most recent work, guiding the reader on a tour of one of the most fascinating lives in American history.
+
+America’s Bank: The Epic Struggle to Create the Federal Reserve
+roger lowenstein
+The struggle to create the Federal Reserve System in 1913 now seems a harbinger of the continued discussion around present-day banking regulations. In America’s Bank, renowned financial journalist Lowenstein illuminates a period of great transformation, and brings to life the key figures who helped lay the foundation for the U.S. financial system. Readers are sure to be mesmerized by the book’s gripping depiction of the founding of the Fed.
+
+Hamilton: An American Musical (CD)
+lin-manuel miranda
+The history of JPMorgan Chase will forever be tied to Alexander Hamilton, who lost his famous duel in 1804 to Aaron Burr, founder of The Bank of The Manhattan Company, the firm’s earliest predecessor. Today, Hamilton’s life is honored in song and story. The soundtrack of Broadway’s current show captures the incomparable life of a Founding Father with unforgettable tunes that mix hip-hop and history with energy and elegy.
+
+I Am Because You Are: How the Spirit of Ubuntu Inspired an Unlikely Friendship
+and Transformed a Community
+jacob lief, andrea thompson
+Jacob Lief discovered the true meaning of humanity as a student in South Africa and went on to found the Ubuntu Education Fund. I Am Because You Are is a rough translation of the word “Ubuntu” and a manifestation of the idea itself. This thrilling book details Lief’s friendship with a local teacher and how their devotion to education shaped their vision for the Fund, which offers an innovative model for lifting needy children out of poverty.
+
+Life is Good: The Book
+bert jacobs, john jacobs
+Since founding their company in 1994, brothers Bert and John Jacobs have grown the
+Life is Good brand from a street phenomenon into an international company worth more than $100 million. In a story sure to resonate with Next Gens and entrepreneurs, the
+brothers relay how optimism drove their success, and illustrate the “superpowers” that everyone unknowingly possesses. Life is Good: The Book is the new how-to guide for success in business–and life.
+
+Maya Lin: Topologies
+maya lin, text by michael brenson, william l. fox and paul goldberger, foreword by john mcphee
+Celebrated as the architect of the Vietnam Veterans Memorial, 2014 Gish Prize winner Maya Lin is a true public artist, creating fascinating works designed to highlight the landscape. Topologies showcases 50 projects from a brilliant career spanning three decades. From oceans in the mountains to rivers indoors, Lin redefines “environmentally conscious” and blurs the distinction between art and architecture.
+
+Who Gets What–and Why: The New Economics of Matchmaking and Market Design
+alvin e. roth
+Who better than a Nobel Prize winner to offer entrepreneurs a better understanding of market design? Economic Sciences Laureate Alvin Roth has designed “matching markets”
+to help medical students find residencies and kidney donors find patients. In Who Gets What–and Why, he takes a look at world markets that aren’t necessarily shaped by money, and how the players within these markets can discover the most beneficial outcomes.
